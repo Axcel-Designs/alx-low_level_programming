@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - printv using puts
- * Return 0 always sucess
+ * main - prints using puts
+ * Return: 0 always sucess
  */
 int main(void)
 {
