@@ -3,8 +3,8 @@
 #include "main.h"
 /**
 * print_alphabet - entry point
-* 
-* Return: void 
+*
+* Return: void
 */
 void print_alphabet(void)
 {
