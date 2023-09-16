@@ -1,11 +1,11 @@
 #include "main.h"
 /**
  * add - addition
- * @C: to be added
+ * @c: to be added
  * @d: to be added
  * Return: the value
  */
 int add(int c, int d)
 {
-	return c + d;
+	return (c + d);
 }
