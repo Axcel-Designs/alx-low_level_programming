@@ -1,12 +1,16 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
-i/**
-* main - entry point
-* return : 0 always
+/**
+* print_alphabet - entry point
+* 
+* Return: void 
 */
 void print_alphabet(void)
 {
-	int alph
-	for (alph = a; alph <= z; alph++)
+	char alph;
+
+	for (alph = 'a'; alph <= 'z'; alph++)
 		_putchar(alph);
-	_putchar('\n')
+	_putchar('\n');
 }
